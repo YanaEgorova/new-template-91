@@ -28,7 +28,7 @@ window.onload = function() {
       }
    }
 
- 
+
 };
 
 
@@ -81,6 +81,7 @@ function removeItem(e) {
   if(updatedCart.length === 0) {
       showEmptyMessage();
   }
+
 
 }
 
